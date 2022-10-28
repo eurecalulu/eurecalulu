@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eurecalulu. You can call me lulu.
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning some excellent courses to improve my professional ability.
+- 🌱 I’m currently learning some excellent courses to improve my professional abilities.
 - 💞️ I’m now a senior student at NJU majoring in Software Engineering.
 
 <!---
